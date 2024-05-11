@@ -1,0 +1,35 @@
+<div class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="footer-col-1">
+        <h3>Download Aplikasi Kami</h3>
+        <p>Download App untuk ios dan Android.</p>
+        <div class="app-logo">
+          <img src="gambar/logo/appstore.png">
+          <img src="gambar/logo/playstore2.png">
+        </div>
+      </div>
+      <div class="footer-col-2">
+        <img src="gambar/logo/ssw.png" alt="">
+        <p>Buat spesial hari bahagiamu.</p>
+      </div>
+      <div class="footer-col-3">
+        <h3>Link lainnya</h3>
+        <ul>
+          <li>Tentang kami</li>
+        </ul>
+      </div>
+      <div class="footer-col-4">
+        <h3>Follow Kami</h3>
+        <ul>
+          <li>Fcebook</li>
+          <li>Twitter</li>
+          <li>Instagram</li>
+        </ul>
+      </div>
+    </div>
+    <hr>
+    <p class="copyright">Copyright 2020 - Sadhar Slempang Wisuda</p>
+
+  </div>
+</div>

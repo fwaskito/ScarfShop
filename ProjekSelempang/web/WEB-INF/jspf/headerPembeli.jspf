@@ -1,0 +1,15 @@
+<div class="container">
+  <div class="navbar">
+    <div class="logo">
+      <img src="gambar/logo/ssw.png" width="140px">
+    </div>
+    <nav>
+      <ul id="Menuitems">
+        <li><a href="home.jsp">Home</a></li>
+        <li><a href="Login.jsp">Log Out</a></li>
+      </ul>
+    </nav>
+    <img src="gambar/icon/menu.png" class="menu-icon" onclick="menutoggle()">
+  </div>
+
+</div>
